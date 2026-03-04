@@ -1,0 +1,29 @@
+1. Sisteme de Operare:
+    - Microsoft Windows: Multe din componentele kernel-ului, cat si cateva aplicatii built-in
+    - Linux: Multe din componentele kernel-ului, cat si unele programe built-in precum ls, find, grep, cp etc.
+    - macOS, iOS, Android etc.: Cam orice sistem de operare, oricat de obscur sau cunoscut contine cod scris in C
+
+2. Drivere:
+    - Driverele pentru dispozitive sunt in general scrise in C
+
+3. Compilatoare, interpretoare si limbaje de programare:
+    - GCC: Compilator, scris initial in intregime in C, rescris recent in C++
+    - Lua, Python, Ruby: Limbaje de programare, interpreter scris in C
+
+4. Unelte de version control:
+    - Git
+    - Subversion (SVN)
+
+5. Servere web:
+    - Nginx
+    - Apache
+    ! Chiar daca nu suna cunoscut, ambele sunt folosite pentru a gazdui o mare parte din Internet
+
+6. Baze de date:
+    - PostgreSQL
+    - SQLite
+
+7. Sisteme embedded si IoT:
+    - Elemente de avionica in aeronave (ex: Autopilotul si Flight Management System-ul din avioanele moderne)
+    - Elemente de control in autoturisme (ex: Sisteme de infotainment, module de control pentru frane, motor, directie etc.)
+    - Electrocasnice (ex: Atat aparate "IoT" cu conectivitate la Internet, cat si aparate clasice care au nevoie de logica digitala)

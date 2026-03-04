@@ -1,0 +1,30 @@
+Algoritm pentru spalarea rufelor la masina de spalat:
+START
+  Adu cosul cu rufe.
+  Imparte rufele in doua gramezi: albe si colorate.
+  Alege la intamplare gramada cu care sa incepi.
+
+  PENTRU FIECARE haina din gramada aleasa:
+    Verifica buzunarele.
+    DACA gasesti obiecte straine ATUNCI
+      Scoate obiectele din buzunar.
+    SFARSIT CONDITIE
+    Intoarce haina pe dos.
+  SFARSIT BUCLA
+
+  CAT TIMP cuva masinii nu e plina SI mai ai haine in gramada:
+    Baga o haina in masina de spalat.
+  SFARSIT BUCLA
+
+  Inchide bine usa masinii.
+  Pune detergent in sertar, pana la marcajul maxim.
+
+  DACA nu stii ce program sa folosesti ATUNCI
+    Citeste manualul si etichetele hainelor.
+  SFARSIT DACA
+
+  Seteaza programul.
+  Porneste spalarea.
+  Asteapta pana se termina programul.
+  Scoate hainele si pregateste-le pentru uscare.
+STOP
